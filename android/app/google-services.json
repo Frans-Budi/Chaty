@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "908321369367",
+    "project_id": "chatapp-frans",
+    "storage_bucket": "chatapp-frans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:908321369367:android:5fcfad5cbfe1fc73fa1b52",
+        "android_client_info": {
+          "package_name": "com.frans.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "908321369367-lhusq2mobqu01959q25papvhl0ug82do.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.frans.chatapp",
+            "certificate_hash": "3a98eb83605f2c66898291e168dc43c51cbf2fad"
+          }
+        },
+        {
+          "client_id": "908321369367-3r7gaj09dnlvnbs301hjkdmm56dli423.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXwMxzomdUY2ayojRnNGq87U34h2TP_YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "908321369367-3qkm6g0vnl6u0vp5kmcpcpccingsopvk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "908321369367-pvs8371orihjfb8rvq2uqma0nkpvl73b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.frans.chatapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
